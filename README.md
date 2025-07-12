@@ -13,7 +13,14 @@ A passionate full-stack engineer | web developer | software developer with speci
 
 
 <!-- My skills -->
-## 🛠 My Skills
+<details open="open">
+    <summary>
+       
+ ## 🛠 My Skills
+ 
+ </summary>
+    <ol>
+       
 ![Languages](https://img.shields.io/badge/Languages-5081EA?style=flat-square&logo=database)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)
@@ -79,4 +86,9 @@ A passionate full-stack engineer | web developer | software developer with speci
 ![RStudio](https://img.shields.io/badge/-RStudio-black?style=flat-square&logo=r)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-black?style=flat-square&logo=unreal-engine)
+
+ </ol>
+</details>
+ 
+
    
